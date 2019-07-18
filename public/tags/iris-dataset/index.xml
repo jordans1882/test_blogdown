@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris Dataset on A Hugo website</title>
+    <link>/tags/iris-dataset/</link>
+    <description>Recent content in Iris Dataset on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/iris-dataset/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Iris Dataset</title>
+      <link>/2019/07/17/iris-dataset/</link>
+      <pubDate>Wed, 17 Jul 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/2019/07/17/iris-dataset/</guid>
+      <description>Introduction The famous [@fisher:1936] (or [@anderson:1936]) iris data set gives the measurements (in centimeters) of the sepal length and width, and petal length and width for 50 flowers, each from one of three species of iris. The species are I. setosa, I versicolor, and I. virginica. We provide images for each of the three species in Figure . Researchers are interested in whether they can identify the species from the set of the four measurements taken on the plants.</description>
+    </item>
+    
+  </channel>
+</rss>
